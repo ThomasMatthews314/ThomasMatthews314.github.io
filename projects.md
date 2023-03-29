@@ -1,11 +1,6 @@
-# Projects 
-
 ## Climate Changes and Loon Migration 
 
 Over the past 30 years, data, and specifically citizen science data, has become readily available in large quantities. To investigate if Loons have changed wintering behaviors due to climate change in these past decades, this project makes use of the eBird platform run by Cornell University to analyze trends and compute measures of dispersion in an attempt to uncover shifts in wintering ranges over time. This is an ongoing project, but to date the data show a northernly increase in the highest portions of loons wintering range, while the median/mean remains relatively unchanged. 
-
-
-
 
 ## SET
 
