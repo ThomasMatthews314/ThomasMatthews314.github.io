@@ -1,3 +1,10 @@
+---
+layout: page
+title: Projects
+subtitle: Descriptions of some professional and independent projects. 
+---
+
+
 ## Projects
 
 ### Climate Changes and Loon Migration 
