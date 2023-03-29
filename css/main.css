@@ -24,8 +24,7 @@ a {
 }
 a.tButton {
   color: #FFFFFF;
-  padding: 7px;
-  background-color: red;
+  text-decoration: underline;
 }
 
 a:hover,
