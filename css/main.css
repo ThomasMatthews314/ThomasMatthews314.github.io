@@ -27,10 +27,7 @@ a.tButton {
   padding: 7px;
   background-color: red;
 }
-a.tButton: hover {
-  background-color: white;
-  color: red;
-}
+
 a:hover,
 a:focus {
   color: #0085A1;
