@@ -22,6 +22,15 @@ h1,h2,h3,h4,h5,h6 {
 a {
   color: #FFFFFF;
 }
+a.tButton {
+  color: #FFFFFF;
+  padding: 7px;
+  background-color: red;
+}
+a.tButton: hover {
+  background-color: white;
+  color: red;
+}
 a:hover,
 a:focus {
   color: #0085A1;
