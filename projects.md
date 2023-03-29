@@ -9,4 +9,4 @@ A seemingly simple pattern-matching card game, SET in fact operates on a deep ba
 [View code](https://github.com/ThomasMatthews314/SET)
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
-[![](https://img.shields.io/badge/NumPy-white?logo=Numpy)](#) 
+[![](https://img.shields.io/badge/NumPy-white?logo=numpy)](#) 
