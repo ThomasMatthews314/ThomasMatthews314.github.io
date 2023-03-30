@@ -27,7 +27,7 @@ a.tButton {
   text-decoration: underline !important;
 }
 a.tButton:hover {
-  color: ##0085A1; !important;
+  color: #0085A1; !important;
 }
 a:hover,
 a:focus {
