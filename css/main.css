@@ -23,8 +23,8 @@ a {
   color: #FFFFFF;
 }
 a.tButton {
-  color: #FFFFFF;
-  text-decoration: underline;
+  color: #FFFFFF !important;
+  text-decoration: underline !important;
 }
 
 a:hover,
