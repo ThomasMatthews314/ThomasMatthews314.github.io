@@ -33,6 +33,6 @@ This project involved a sample of public data from the Seattle Public Library sy
 [![](https://img.shields.io/badge/R-lightgray?logo=R)](#)
 [![](https://img.shields.io/badge/RStudio-lightgray?logo=RStudio)](#)
 [![](https://img.shields.io/badge/Tidyverse-lightgray?logo=Tidyverse)](#)
-[![](https://img.shields.io/badge/Tidyverse-lightgray?logo=Tableau)](#)
+[![](https://img.shields.io/badge/Tableau-lightgray?logo=Tableau)](#)
 
 
