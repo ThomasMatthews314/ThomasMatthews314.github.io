@@ -14,6 +14,8 @@ Over the past 30 years, data, and specifically citizen science data, has become 
 [![](https://img.shields.io/badge/RStudio-lightgray?logo=RStudio)](#)
 [![](https://img.shields.io/badge/Tidyverse-lightgray?logo=Tidyverse)](#) 
 
+![](img/density_ne_land.png)
+
 
 ### SET
 
