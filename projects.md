@@ -25,6 +25,7 @@ A seemingly simple pattern-matching card game, SET in fact operates on a deep ba
 
 [![](https://img.shields.io/badge/Python-lightgray?logo=Python)](#) 
 [![](https://img.shields.io/badge/NumPy-lightgray?logo=numpy)](#) 
+[![](https://img.shields.io/badge/SciPy-lightgray?logo=scipy)](#) 
 
 ### Seattle Public Library (SPL)
 
