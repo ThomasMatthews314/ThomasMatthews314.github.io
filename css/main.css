@@ -4,7 +4,7 @@
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 18px;
+  font-size: 18px;https://thomasmatthews314.github.io/projects/
   color: #f8f8f2;
   color: #212529;
   position: relative;
@@ -131,6 +131,7 @@ img {
 .navbar-brand {
   height: auto;
 }
+
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: bold;
@@ -149,6 +150,8 @@ img {
   padding-right: 15px !important;
 }
 
+.navbar-nav .navlink:hover,
+.navbar-nav .navlink:focus,
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
