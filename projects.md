@@ -26,14 +26,10 @@ A seemingly simple pattern-matching card game, SET in fact operates on a deep ba
 ![](img/set_code.png)
 
 ```python
-class VersionSET(object):
-    
-                         
+class VersionSET(object): 
     def __init__(self, deckChoice):
         self.deckChoice = deckChoice
-
-
-
+        
     def swap_cards(self, firstLocation, secondLocation):
         firstCard = int(deck[firstLocation])
         secondCard = int(deck[secondLocation])
@@ -52,7 +48,6 @@ class VersionSET(object):
         cardLocation = locationInDeck[card]
         return np.logical_and(locationOfFirstCardOnTable <= cardLocation, cardLocation <= locationOfLastCardOnTable)
         
-
     def take_card(self, card):
         global locationOfFirstCardOnTable
  
@@ -62,8 +57,7 @@ class VersionSET(object):
             return True
         else:
             return False
-
-
+            
     def deal(self, amount):
 ```
 
