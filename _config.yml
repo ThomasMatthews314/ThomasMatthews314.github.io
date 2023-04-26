@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Thomas Matthews<span>test</span>
+title: Thomas Matthews<span class="my-title">Data Analyst, STEM Enthusiast</span>
 
 # Your name to show in the footer
 author: Thomas Matthews
