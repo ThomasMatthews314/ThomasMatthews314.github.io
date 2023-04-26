@@ -23,10 +23,7 @@ h3 {
     border-left: 5px solid #d35E13;
     padding-left: 8px;
 }
-a {
-  color: #FFFFFF;
-  color: #212529;
-}
+
 a.tButton {
   text-decoration: underline !important;
 }
