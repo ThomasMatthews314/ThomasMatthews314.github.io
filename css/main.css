@@ -144,6 +144,11 @@ img {
   font-style: italic;
 }
 
+.top-nav-regular {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
