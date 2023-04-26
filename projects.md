@@ -9,6 +9,9 @@ subtitle: Descriptions of some professional and independent projects.
 Over the past 30 years, data, and specifically citizen science data, has become readily available in large quantities. To investigate if Loons have changed wintering behaviors due to climate change in these past decades, this project makes use of the eBird platform run by Cornell University to analyze trends and compute measures of dispersion in an attempt to uncover shifts in wintering ranges over time. I have also incorporated geospatial data from NOAA, the GSHHG database, to better analyze longitude and latitude. This is an ongoing project, but to date the data show a northernly increase in the highest portions of loons wintering range, while the median/mean remains relatively unchanged. 
 
 ![](img/density_ne_land.png)
+<a href="{{ site.baseurl }}/img/density_ne_land.png" class="lightgallery-link" data-sub-html="image_description">
+<img alt="image_description" data-src="{{ site.baseurl }}/img/density_ne_land.png" src="{{ site.baseurl }}/img/density_ne_land.png" />
+</a>"
 
 [View code](https://github.com/ThomasMatthews314/eBird_Loons)
 
