@@ -148,9 +148,12 @@ img {
   padding-left: 15px !important;
   padding-right: 15px !important;
 }
+.navbar-nav a.nav-link {
+  color: #f8f8f2 !important;
+}
 
-.navbar-nav .navlink:hover,
-.navbar-nav .navlink:focus,
+.navbar-nav a.nav-link:hover,
+.navbar-nav a.nav-link:focus,
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
