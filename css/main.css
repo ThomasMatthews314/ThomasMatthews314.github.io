@@ -145,8 +145,8 @@ img {
 }
 
 .top-nav-regular {
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 15px !important;
+  padding-right: 15px !important;
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -303,7 +303,7 @@ footer p.text-muted {
 footer a {
   color: #404040;
 }
-footer-links a,
+.footer-links a,
 footer a.sLink {
   color: #d35e13;
 }
