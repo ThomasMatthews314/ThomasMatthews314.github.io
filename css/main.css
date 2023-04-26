@@ -303,6 +303,7 @@ footer p.text-muted {
 footer a {
   color: #404040;
 }
+footer-links a,
 footer a.sLink {
   color: #d35e13;
 }
