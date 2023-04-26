@@ -11,7 +11,7 @@ Over the past 30 years, data, and specifically citizen science data, has become 
 ![](img/density_ne_land.png)
 <a href="{{ site.baseurl }}/img/density_ne_land.png" class="lightgallery-link" data-sub-html="image_description">
 <img alt="image_description" data-src="{{ site.baseurl }}/img/density_ne_land.png" src="{{ site.baseurl }}/img/density_ne_land.png" />
-</a>"
+</a>
 
 [View code](https://github.com/ThomasMatthews314/eBird_Loons)
 
