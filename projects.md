@@ -23,7 +23,7 @@ Over the past 30 years, data, and specifically citizen science data, has become 
 
 A seemingly simple pattern-matching card game, SET in fact operates on a deep base of interesting and relevant mathematics, including combinatorics, linear algebra, affine geometries, and more. To uncover some of this behavior, a computation approach was taken to reveal the effects of various initial conditions, experiment with strategies, and discover rare scenarios over tens of millions of game iterations. Due to its versatility, this was done with an object oriented Python program making use of various libraries and techniques to produce, manipulate and analyze the large multidimensional arrays of data. 
 
-![](img/set_code.png)
+Following is an excerpt from some of the Python code:
 
 ```python
 class VersionSET(object): 
