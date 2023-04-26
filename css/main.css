@@ -39,7 +39,6 @@ a.tButton:hover {
 a:hover,
 a:focus {
   text-decoration: underline;
-  color: inherit !important;
 }
 blockquote {
   color: #808080;
