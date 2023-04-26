@@ -25,6 +25,47 @@ A seemingly simple pattern-matching card game, SET in fact operates on a deep ba
 
 ![](img/set_code.png)
 
+```python
+class VersionSET(object):
+    
+                         
+    def __init__(self, deckChoice):
+        self.deckChoice = deckChoice
+
+
+
+    def swap_cards(self, firstLocation, secondLocation):
+        firstCard = int(deck[firstLocation])
+        secondCard = int(deck[secondLocation])
+        deck[firstLocation] = secondCard
+        locationInDeck[firstCard] = secondLocation
+        deck[secondLocation] = firstCard
+        locationInDeck[secondCard] = firstLocation
+
+    def number_of_cards_left_in_deck(self):
+        return numberOfCards - (locationOfLastCardOnTable+1)
+
+    def number_of_cards_on_table(self):
+        return locationOfLastCardOnTable - locationOfFirstCardOnTable + 1
+
+    def is_on_table(self, card):
+        cardLocation = locationInDeck[card]
+        return np.logical_and(locationOfFirstCardOnTable <= cardLocation, cardLocation <= locationOfLastCardOnTable)
+        
+
+    def take_card(self, card):
+        global locationOfFirstCardOnTable
+ 
+        if self.is_on_table(card):
+            self.swap_cards(locationOfFirstCardOnTable, int(locationInDeck[card]))
+            locationOfFirstCardOnTable += 1
+            return True
+        else:
+            return False
+
+
+    def deal(self, amount):
+```
 
 [View code](https://github.com/ThomasMatthews314/SET)
 
